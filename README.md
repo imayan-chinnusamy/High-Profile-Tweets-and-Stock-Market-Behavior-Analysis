@@ -1,1 +1,1 @@
-# High-Profile-Tweets-and-Stock-Market-Sentiment-Analysis
+# High-Profile-Tweets-and-Stock-Market-Behavior-Analysis
