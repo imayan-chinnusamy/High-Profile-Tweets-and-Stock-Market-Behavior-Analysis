@@ -1,1 +1,1 @@
-# Twitter-and-Stock-Market-Analysis
+# Twitter-and-Stock-Market-Sentiment-Analysis
